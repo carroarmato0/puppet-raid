@@ -1,6 +1,6 @@
 class raid {
-	
-	include raid::package
-	include raid::config
+
+  include raid::package
+  include raid::config
 
 }
